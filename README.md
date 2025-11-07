@@ -1,13 +1,20 @@
 # 👋 Hi, I'm Kavya
 
 Welcome to my GitHub profile!  
-🎓 I'm a passionate technologist transitioning my strong foundation as a Full Stack Developer (Core Java, Spring Boot) into the world of Python & Data Analytics learner with interest in data visualization, machine learning, and automation
-
-📊 I love turning raw data into meaningful insights
-🧠 Currently exploring Pandas, NumPy, Matplotlib, Seaborn, and Power BI
-💡 Open to collaborate on data analytics and automation projects
+🔍 **Passionate Python Developer & Data Analytics Enthusiast**
 
 ---
+
+## 👨‍💻 About Me
+
+🎓 I'm a passionate technologist transitioning my strong foundation as a **Full Stack Developer (Core Java, Spring Boot)** into the world of **Python & Data Analytics**, with a keen interest in **data visualization, machine learning, and automation**.  
+
+📊 I love turning raw data into meaningful insights.  
+🧠 Currently exploring **Pandas, NumPy, Matplotlib, Seaborn**, and **Power BI**.  
+💡 Open to collaborate on **data analytics and automation projects**.  
+
+---
+
 
 ### 🧰 Tech Stack
 Here are some tools and technologies I use:
